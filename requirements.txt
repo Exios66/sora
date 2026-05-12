@@ -106,7 +106,7 @@ toml==0.10.2
 typing_extensions==4.6.3
 tzdata==2024.1
 uc-micro-py==1.0.3
-urllib3==2.0.3
+urllib3==2.7.0
 uvloop==0.17.0
 veilcord==0.0.2
 wcwidth==0.2.6
