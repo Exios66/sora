@@ -112,7 +112,7 @@ veilcord==0.0.2
 wcwidth==0.2.6
 websocket==0.2.1
 websocket-client==1.6.1
-Werkzeug==2.3.6
+Werkzeug==3.1.6
 word2number==1.1
 yarl==1.9.2
 zope.event==5.0
