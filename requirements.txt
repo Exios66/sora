@@ -61,7 +61,7 @@ objection==1.11.0
 packaging==24.0
 pandas==2.2.1
 pexpect==4.8.0
-pillow==10.2.0
+pillow==12.3.0
 prompt-toolkit==3.0.39
 protobuf==3.20.3
 psutil==5.9.5
